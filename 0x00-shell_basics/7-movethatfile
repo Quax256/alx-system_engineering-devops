@@ -1,2 +1,2 @@
 #!/bin/bash
-mv betty /tmp to /tmp/my_first_directory/
+[drive:][/tmp/my_first_directory]betty
